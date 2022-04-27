@@ -1,5 +1,5 @@
 # Unidad15-DML
-MySQL 
+Lenguaje SQL Lenguaje de manipulación de datos (DML): INSERT, UPDATE, DELETE.
 
 # Ejercicio 1
 
