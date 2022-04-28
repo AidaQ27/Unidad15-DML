@@ -28,3 +28,11 @@ Lenguaje SQL Lenguaje de manipulación de datos (DML): INSERT, UPDATE, DELETE.
 
 
 
+
+
+
+
+
+
+# Ejercicio 16
+![Ejercicio_16_UD12](https://user-images.githubusercontent.com/47026018/165726844-a68317fb-2252-4945-b054-8f5f297b7bad.PNG)
